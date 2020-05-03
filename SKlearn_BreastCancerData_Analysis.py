@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Created on Sat May  2 21:26:45 2020
 
-@author: s.p.
+@author: William He
 """
 
 
